@@ -9,5 +9,10 @@
     </head>
     <body>
         <h1>Hello World!</h1>
+        
+        <form method="POST" action="ShowScore">    
+        id：<input type="text" name="t" /><input type="submit"/>
+
+        </form>
     </body>
 </html>
